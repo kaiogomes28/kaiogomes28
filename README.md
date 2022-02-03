@@ -36,5 +36,11 @@
 </div>
 
 <div align="center">
+  
+  ![Snake animation](https://github.com/kaiogomes28/kaiogomes28/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
   <p>Feito com :heart: e JavaScript.</p>
 </div>
