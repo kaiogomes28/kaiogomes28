@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/kaio-eduardo-gomes-3b29a922b/"><i>Kaio Gomes</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/%F0%9F%92%BB-kaio-eduardo-gomes-3b29a922b/"><i>Kaio Gomes</i></a> 😃️</h1>
   <p align="center">Estou estudando dev curso (DevSuperior)</a>
   <p align="center">"Não é a linguagem de programação que define o programador, mas sim sua lógica"! 💻</h2>
     <p align="center">"Os bilhões são feitos de centavos"! 💰</h2>
@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://www.instagram.com/kem_tech_2022/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kaio-eduardo-gomes-3b29a922b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/%F0%9F%92%BB-kaio-eduardo-gomes-3b29a922b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:kaio.e.m.gomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
