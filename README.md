@@ -1,6 +1,5 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/%F0%9F%92%BB-kaio-eduardo-gomes-3b29a922b/"><i>Kaio Gomes</i></a> 😃️</h1>
-  <p align="center">Estou estudando dev curso (DevSuperior)</a>
   <p align="center">"Não é a linguagem de programação que define o programador, mas sim sua lógica"! 💻</h2>
     <p align="center">"Os bilhões são feitos de centavos"! 💰</h2>
 
